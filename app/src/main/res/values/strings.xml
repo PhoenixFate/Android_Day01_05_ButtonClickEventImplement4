@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_Day01_05_ButtonClickEventImplement4</string>
+    <string name="enter_telephone">请输入电话号码</string>
+    <string name="call">拨打</string>
+</resources>
